@@ -11,3 +11,21 @@ git stash apply -> Apply the saved copy files
 git log --> to show commit history in command line
 git branch -a --> to show branches available
 git branch -D <branch name> --> to delete a branch
+
+git cherry-pick
+Step 1 - Note which commits from master you want on a newbranch Execute
+
+git checkout master
+git log
+Note the hashes of (say 3) commits you want on newbranch. Here I shall use:
+C commit: 9aa1233
+D commit: 453ac3d
+E commit: 612ecb3
+
+Note: You can use the first seven characters or the whole commit hash
+
+Step 2 - Put them on the newbranch
+git checkout newbranch
+git cherry-pick 612ecb3
+git cherry-pick 453ac3d
+git cherry-pick 9aa1233
