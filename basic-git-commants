@@ -1,1 +1,13 @@
 
+git status --> to check which files has been changed
+git add --> add files to staged area from unstaged
+git commit -m "Mesage" --> Commit changed files and changes (create a checkpoint) 
+git push --> Push commit to remote url (github or similar)
+git stash pop 
+git pull --> pull updates from the remote (update local repository with remote)
+git commit --amend --> Edit commit message (only for the latest/last commit)
+git stash -> Save the changed files
+git stash apply -> Apply the saved copy files
+git log --> to show commit history in command line
+git branch -a --> to show branches available
+git branch -D <branch name> --> to delete a branch
