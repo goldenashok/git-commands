@@ -1,1 +1,2 @@
-# git-commeants
+# git-commants
+# Basic Git Commants
