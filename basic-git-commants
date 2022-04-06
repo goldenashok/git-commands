@@ -12,7 +12,7 @@ git log --> to show commit history in command line
 git branch -a --> to show branches available
 git branch -D <branch name> --> to delete a branch
 
-git cherry-pick
+#git cherry-pick
 Step 1 - Note which commits from master you want on a newbranch Execute
 
 git checkout master
