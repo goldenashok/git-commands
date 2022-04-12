@@ -1,9 +1,10 @@
 
 git status --> to check which files has been changed
-git add --> add files to staged area from unstaged
+git add <file path> --> add files to staged area from unstaged
+git add .  --> add all file to staged area from unstaged
 git commit -m "Mesage" --> Commit changed files and changes (create a checkpoint) 
 git push --> Push commit to remote url (github or similar)
-git stash pop 
+git stash pop = git stash apply + git stash drop
 git pull --> pull updates from the remote (update local repository with remote)
 git commit --amend --> Edit commit message (only for the latest/last commit)
 git stash -> Save the changed files
