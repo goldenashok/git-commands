@@ -1,7 +1,6 @@
 # git-commants
 # Basic Git Commants
 
-## longhand
-npm help
-## shorthand
-npm
+1. npm help
+npm help  -> Long hand
+npm -> shorthand
