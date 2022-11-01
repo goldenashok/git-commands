@@ -34,4 +34,9 @@
 10. ```git checkout <branch name>```
 11. ```git merge <old branch name> <new branch name>```
 12. ```git branch -d <branch name>```
+13. ```git rebase``` vs ```git cherry-pick``` vs ```git stash```
+      | git rebase | git cherry-pick | git stash |
+      | --- | ---|---|
+      |commands : git rebase | ```git cherry-pic <committed version no>``` | ```git stash```|
+      |---|---|---|---|
    
