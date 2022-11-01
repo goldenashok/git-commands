@@ -37,6 +37,6 @@
 13. ```git rebase``` vs ```git cherry-pick``` vs ```git stash```
       | git rebase | git cherry-pick | git stash |
       | --- | ---|---|
-      |commands : git rebase | ```git cherry-pic <committed version no>``` | ```git stash```|
+      |commands : ```git rebase``` | ```git cherry-pic <committed version no>``` | ```git stash```|
       |---|---|---|---|
    
