@@ -44,4 +44,17 @@
       - command : ```git rebase -i HEAD~[<commit no, example 1>]```
       - or
       - command : ```git rebase -i <commit id>```
- 
+ 15. ```git status```
+      - show the modified files
+ 16. ```git add <file path>```
+      - add files to staged area from unstaged
+ 17. ```git commit -m "Mesage"```
+      - Add message to Commit
+ 18. ```git push```
+      - ush commit to remote url (github or similar)
+ 19. ```git stash pop```
+      - git stash pop = git stash apply + git stash drop
+ 20. ```git pull```
+      - git pull updates new changes from the remote (update local changes with with remote changs)
+ 21. ```git commit --amend```
+      - Edit commit message (only for the latest/last commit)
