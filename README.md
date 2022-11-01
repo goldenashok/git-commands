@@ -17,3 +17,7 @@
 | npm install --global package-name | npm i -g package-name | install a package globally |
 | npm install package-name | npm i package-name | install a package |
 | --- | --- | --- |
+
+
+1. git rm --cached <file name>
+2. git restore <file name>
