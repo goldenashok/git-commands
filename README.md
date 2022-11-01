@@ -19,7 +19,7 @@
 | --- | --- | --- |
 
 
-1. git rm --cached file name
+1. ```git rm --cached <file name>```
    - Discard file changes
 2.git restore file name
    - Discard file changes
