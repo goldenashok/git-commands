@@ -40,7 +40,7 @@
       |commands : ```git rebase``` | ```git cherry-pic <committed version no>``` | ```git stash```|
       |---|---|---|---|
    
-14. Suash
+14. Squash
       - command : ```git rebase -i HEAD~[<commit no, example 1>]```
       - or
       - command : ```git rebase -i <commit id>```
