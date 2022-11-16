@@ -1,6 +1,6 @@
 ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-# git-commants
-# Basic Git Commants
+# git-commands
+# Basic Git Commands
 
 1. npm help
    - npm help  -> Long hand
