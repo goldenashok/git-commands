@@ -58,3 +58,11 @@
       - git pull updates new changes from the remote (update local changes with with remote changs)
  21. ```git commit --amend```
       - Edit commit message (only for the latest/last commit)
+ 22. ```git commit -am "commit message"```
+      - ```git commit -am``` used ommit the ```git add``` command when committing
+      Example
+      ``git add.
+        git commit -m "Commit message"```
+        instead of
+        ```git commit -am "Commit message"```
+     
