@@ -59,8 +59,8 @@
  21. ```git commit --amend```
       - Edit commit message (only for the latest/last commit)
  22. ```git commit -am "commit message"```
-      - ```git commit -am``` used ommit the ```git add``` command when committing
-      Example
+       ```git commit -am``` used ommit the ```git add``` command when committing
+      ##vExample
       ```sh
       git add.
       git commit -m "Commit message"
