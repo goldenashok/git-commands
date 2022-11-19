@@ -61,8 +61,10 @@
  22. ```git commit -am "commit message"```
       - ```git commit -am``` used ommit the ```git add``` command when committing
       Example
-      ``git add.
-        git commit -m "Commit message"```
+      ```sh
+      git add.
+      git commit -m "Commit message"
         instead of
-        ```git commit -am "Commit message"```
+      git commit -am "Commit message"
+      ```
      
