@@ -24,7 +24,9 @@
 2. ```git restore <file name>```
    - Discard file changes
 3. ```git log```
+   Git log is a utility tool to review and read a history of everything that happens to a repository
 4. ```git log --oneline```
+   The oneline option is used to display the output as one commit per line. It also shows the output in brief like the first seven characters of the commit SHA and the commit message
 5. ```git reset --soft <committed version no>```
 6. ```git reset --hard <committed version no>```
 7. ```git revert <committed version no>```
